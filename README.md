@@ -1,2 +1,2 @@
-# AzarMehrMonoline
-AzarMehr Monoline Typeface
+# AzarMehrMonospaced
+AzarMehr Monospaced Typeface
